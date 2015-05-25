@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/mitchdenny/shiny-octo-lana/issues"
   },
-  "homepage": "https://github.com/mitchdenny/shiny-octo-lana"
+  "homepage": "https://github.com/mitchdenny/shiny-octo-lana",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jsonpath": "^0.1.3",
+    "swaggerize-express": "^4.0.1"
+  },
+  "engines": {
+    "node": "0.12.x"
+  }
 }
